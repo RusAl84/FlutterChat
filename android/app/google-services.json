@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "337386119046",
+    "firebase_url": "https://flutterchat-masterclass.firebaseio.com",
+    "project_id": "flutterchat-masterclass",
+    "storage_bucket": "flutterchat-masterclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337386119046:android:f49f7d757af4c9dc699607",
+        "android_client_info": {
+          "package_name": "com.duytq.flutterchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337386119046-0emh3cq73subash99cgscngacpvfn3hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duytq.flutterchat",
+            "certificate_hash": "efaf8e3565f5355031ff027bdef138b17665bdda"
+          }
+        },
+        {
+          "client_id": "337386119046-jtdfdkmjcakmhvkq9kg7rldosqqvo4bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duytq.flutterchat",
+            "certificate_hash": "db313203179e8c84310f9d989ded34fc34785fec"
+          }
+        },
+        {
+          "client_id": "337386119046-nf15dvemoapnbd9oeocbhvijbe8vise0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhOA8hl-haG23Jar9tF9K3Tnnm6TDFK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337386119046-nf15dvemoapnbd9oeocbhvijbe8vise0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
