@@ -8,12 +8,49 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:337386119046:android:2fb7ee82e0c05135699607",
+        "android_client_info": {
+          "package_name": "com.FlutterChat.rusal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337386119046-nf15dvemoapnbd9oeocbhvijbe8vise0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhOA8hl-haG23Jar9tF9K3Tnnm6TDFK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337386119046-nf15dvemoapnbd9oeocbhvijbe8vise0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:337386119046:android:f49f7d757af4c9dc699607",
         "android_client_info": {
           "package_name": "com.duytq.flutterchat"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "337386119046-3kh7j0k18ht2iincj652vhokr5kre9bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duytq.flutterchat",
+            "certificate_hash": "9f7a1eeb599c172af6def6306dc4982dbbf81342"
+          }
+        },
         {
           "client_id": "337386119046-0emh3cq73subash99cgscngacpvfn3hk.apps.googleusercontent.com",
           "client_type": 1,
@@ -28,6 +65,43 @@
           "android_info": {
             "package_name": "com.duytq.flutterchat",
             "certificate_hash": "db313203179e8c84310f9d989ded34fc34785fec"
+          }
+        },
+        {
+          "client_id": "337386119046-nf15dvemoapnbd9oeocbhvijbe8vise0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhOA8hl-haG23Jar9tF9K3Tnnm6TDFK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337386119046-nf15dvemoapnbd9oeocbhvijbe8vise0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337386119046:android:56a6bd3887bf88a1699607",
+        "android_client_info": {
+          "package_name": "com.flutterchat3.rusal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337386119046-k58jo9ftojpj2ufl05br0tos1uuv7np8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterchat3.rusal",
+            "certificate_hash": "9f7a1eeb599c172af6def6306dc4982dbbf81342"
           }
         },
         {
